@@ -1,14 +1,3 @@
-# 🍎 Nutrition Dashboard - React Native Challenge
-
-This project was developed as a technical challenge for the **Junior React Native Mobile Developer** position. The goal was to accurately replicate a nutrition dashboard mockup using **React Native** and **TypeScript**.
-
-## 🎯 Challenge Requirements
-
-* **UI Fidelity:** Accurate implementation of the provided mockup layout.
-* **Component Architecture:** Clean and organized structure for better reusability and maintenance.
-* **TypeScript:** Correct usage of interfaces and types for data handling.
-* **Mock Data:** Populating the meal list and progress bars with static data.
-
 ## 🚀 Technologies & Tools
 
 * **React Native (CLI)**
