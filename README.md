@@ -1,16 +1,16 @@
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 * **React Native (CLI)**
 * **TypeScript**
 * **React Native SVG** (for charts/progress indicators)
 
-## 🏗️ Architecture Highlights
+## Architecture Highlights
 
 * **Strict Typing:** All data structures (Meals, Nutrients, Progress) are defined using TypeScript interfaces to ensure type safety.
 * **Reusable Components:** The dashboard is broken down into small, focused components like `ProgressBar`, `MealCard`, and `NutrientSummary`.
 * **Scalability:** The folder structure is organized to separate business logic/mock data from the UI components.
 
-## 🛠️ How to Run the Project
+## How to Run the Project
 
 Follow these steps to run the application in your local development environment:
 
